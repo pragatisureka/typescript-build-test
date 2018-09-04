@@ -1,0 +1,14 @@
+{
+  "references": [
+    {
+      "path": "./mainpkg"
+    },
+    {
+      "path": "./pkg2"
+    },
+    {
+      "path": "./pkg3"
+    }
+  ],
+  "files": []
+}

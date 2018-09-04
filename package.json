@@ -1,0 +1,7 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "typescript": "^3.1.0-dev.20180901"
+  }
+}
